@@ -6,10 +6,18 @@
 
 Being able to understand and present the data in a straightforward way and in a short amount of time is a good skill to have at your disposal.
 
-
 ## Getting Started
 
 For this lab, you will be given a [dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) for which you have to understand and prepare a story on Tableau. If the dataset needs merging, cleaning and so on, you can use both SQL and Python. Upload the script, both .sql or/and .ipynb in this repo (please make it readable and with comments in both cases), along the Tableau workbook. Use Tableau for data visualisation.
+
+## Content of MVP
+
+Make sure that you hand in at least:
+
+- a list of one of two main questions and a couple of sub-questions per main one (can also be added in the .txt file);
+- a story with at least two story points (should be one per main question);
+- brief comments on how to interpret the data (in the story);
+- very short conclusion (in the story).
 
 ## Deliverables
 
