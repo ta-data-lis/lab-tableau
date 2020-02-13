@@ -8,14 +8,14 @@ Being able to understand and present the data in a straightforward way and in a 
 
 ## Getting Started
 
-For this lab, you will be given a [dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) for which you have to understand and prepare a story on Tableau. If the dataset needs merging, cleaning and so on, you can use both SQL and Python. Upload the script, both .sql or/and .ipynb in this repo (please make it readable and with comments in both cases), along the Tableau workbook. Use Tableau for data visualisation.
+For this lab, you will be given a [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv) for which you have to understand and prepare a story on Tableau. Upload the script in this repo (please make it readable and with comments in both cases), along the Tableau workbook link. Use Tableau for data visualisation.
 
 ## Content of MVP
 
 Make sure that you hand in at least:
 
-- a list of one of two main questions and a couple of sub-questions per main one (can also be added in the .txt file);
-- a story with at least two story points (should be one per main question);
+- a list of one main questions and a couple of sub-questions (can also be added in the .txt file);
+- a story with at least two story points;
 - brief comments on how to interpret the data (in the story);
 - very short conclusion (in the story).
 
@@ -30,7 +30,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## Resources
 
-- [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+- [AppleStore Dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv)
 
 - [Dimensions and Measures, Blue and Green](https://onlinehelp.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 
