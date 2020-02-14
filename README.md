@@ -8,7 +8,7 @@ Being able to understand and present the data in a straightforward way and in a 
 
 ## Getting Started
 
-For this lab, you will be given a [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv) for which you have to understand and prepare a story on Tableau. Upload the script in this repo (please make it readable and with comments in both cases), along the Tableau workbook link. Use Tableau for data visualisation.
+For this lab, you will be given a [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv) for which you have to understand and prepare a story on Tableau. Upload the script in this repo (please make it readable and with comments), along the Tableau workbook link. Use Tableau for data visualisation.
 
 ## Content of MVP
 
