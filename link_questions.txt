@@ -1,0 +1,27 @@
+Link:https://public.tableau.com/profile/tiago.dias4952#!/vizhome/lab-tableau_15818777778660/Story
+
+Story
+
+Main Question: Do cheap apps, in average, have a better user rating than free apps?
+
+Sub Question: What are the genres with more reviews?
+
+Sub Question: What is the frequency of reviews for paid Games apps?
+
+Sub Question: What is the frequency of prices for Games apps?
+
+Summary
+
+Firstly, I decided to define my sample. To do that, I found the most reviewed genre - Games. Then, since there are
+much more free apps than paid apps, I searched for a representative range of reviews of paid apps and 
+conducted the analysis on that range - [284-3515] reviews. After defining the range of reviews, it was time to 
+define the range of prices, so I did a frequency analysis on price using bins. Prices between 0 and 6 were the most
+frequent and I decided to analyse that range of prices. As final result, I got the price for average rating.
+
+Conclusion
+
+The price with the highest average ranking(4.3750) is 3.99USD. The price with the lowest (4.1667) is 5.99 USD. Free apps 
+have an average rating of 4.255. As a conclusion, apps that have a price below 3.99 are tipically more appreciated by users.
+Usually, people use free apps, so when they buy an app they expect a better service, and that could be a factor on why
+expensive apps have a lower user ranting - the user's expectations.
+ 
