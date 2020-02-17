@@ -1,8 +1,0 @@
-Questions:
-
-How should you present your app (by text) to maximize the number of downloads?
- - How long should you title be?
- - How long should the detailed description be?
-
-Tableau public link:
-https://public.tableau.com/profile/ricardo.zacarias#!/vizhome/app-text-rzacarias/Story1
