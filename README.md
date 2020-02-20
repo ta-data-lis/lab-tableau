@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Being able to understand and present the data in a straightforward way and in a short amount of time is a good skill to have at your disposal.
+ Being able to understand and present the data in a straightforward way and in a short amount of time is a good skill to have at your disposal.
 
 ## Getting Started
 
